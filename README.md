@@ -19,4 +19,4 @@
 
 ## 配套博客
 
-写了一篇博客介绍这套东西的思路：[链接待填](https://funnyjacy.github.io/blog/)
+写了一篇博客介绍这套东西的思路：[我的全局 CLAUDE.md 开源了](https://funnyjacy.github.io/blog/2026-11-16-%E6%88%91%E7%9A%84%E5%85%A8%E5%B1%80claudemd%E5%BC%80%E6%BA%90%E4%BA%86/)
